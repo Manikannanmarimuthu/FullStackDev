@@ -1,6 +1,6 @@
 package com.practice.day1;
 
-public class AritmaticTest {
+public class Calculator {
 
 	public static void main(String[] args) {
 
