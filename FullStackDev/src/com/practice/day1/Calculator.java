@@ -6,10 +6,10 @@ public class Calculator {
 		System.out.println("Length is :: " + args.length);
 		int a = Integer.parseInt(args[0]);
 		int b = Integer.parseInt(args[1]);
-		System.out.println("Addition Operation outut is :: " + (a + b));
-		System.out.println("Subraction Operation outut is :: " + (a - b));
-		System.out.println("Multiplication Operation outut is :: " + (a * b));
-		System.out.println("Multiplication Operation outut is :: " + (a / b));
+		System.out.println("Addition Operation output is :: " + (a + b));
+		System.out.println("Subraction Operation output is :: " + (a - b));
+		System.out.println("Multiplication Operation output is :: " + (a * b));
+		System.out.println("Division Operation output is :: " + (a / b));
 	}
 
 }
