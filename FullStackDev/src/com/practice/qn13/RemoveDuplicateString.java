@@ -18,7 +18,6 @@ public class RemoveDuplicateString {
 			sb.append(character);
 		}
 		System.out.println(sb.toString());
-
 	}
 
 }
