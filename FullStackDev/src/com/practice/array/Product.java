@@ -52,10 +52,9 @@ public class Product {
 			System.out.println(temp.getId() + "  " + temp.getCost() + " " + temp.getProduct());
 			count = count + temp.getCost();
 		}
-
 		System.out.println("************");
 		System.out.println("Count is :: " + count);
 		System.out.println("************");
-	}
 
+	}
 }
